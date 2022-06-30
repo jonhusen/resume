@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+# **JONATHAN HUSEN**
 
-You can use the [editor on GitHub](https://github.com/jonhusen/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## CYBERSECURITY ARCHITECT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### CONTACT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="./images/envelope.svg" alt="Email" width="15"/> [jon.husen@gmail.com](mailto:jon.husen@gmail.com)
 
-```markdown
-Syntax highlighted code block
+<img src="./images/linkedin.svg" alt="LinkedIn" width="15"/> [LinkedIn - Jon Husen](https://www.linkedin.com/in/jonhusen)
 
-# Header 1
-## Header 2
-### Header 3
+<img src="./images/github.svg" alt="GitHub" width="15"/> [GitHub - jonhusen](https://github.com/jonhusen)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## ABOUT
 
-**Bold** and _Italic_ and `Code` text
+Growth-minded builder who enjoys developing platforms and systems that help
+secure customer environments and alleviate workflow friction for the SOC.
+Driven by learning new technologies and leveraging them to satisfy business
+objectives. Energized by facilitating workflow optimization through analysis
+of business processes, efficient use of tooling, and scripting/automation.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## PROFICIENCIES
 
-### Jekyll Themes
+- Platform design & architecture
+- Cybersecurity tools - SEIM, SOAR, EDR
+- Scripting/Coding - Python, PowerShell/PowerCLI
+- Cloud Platforms - AWS/Azure
+- VMware vSphere
+- Windows Server
+- Windows Services - AD, GP, DNS, DHCP, etc.
+- Cisco/Meraki networking
+- Troubleshooting
+- R&D/Testing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonhusen/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## INTERESTS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Active participant in the [FW VMUG](https://twitter.com/fortwaynevmug).
+
+Cycling and outdoor tech.
+
+Building Legos with my kids.
+
+Currently learning: Ansible, Docker, FastAPI
+
+---
+
+## EMPLOYMENT & EXPERIENCE
+
+### Corsica Technologies
+
+#### **Cybersecurity Architect** | December 2021 - Present
+
+Design and maintain a cohesive, turnkey security MDR platform that is easily
+deployed and scales with customer needs.
+
+- Collaborated with development team to determine ways to drive engagement with and value of the Corsica Client Portal
+- Consolidated legacy tool sprawl to drive SOC efficiency and ease Cyber Engineering management burden
+- Developed client onboarding tooling and methodologies to reduce time to serviceability and show value to the client
+
+#### **Cybersecurity Engineering Manager/Sr. Cybersecurity Engineer** | July 2020 - December 2021
+
+Deploy cybersecurity tools for new client onboardings and manage the initial client relationship.
+
+- Led R&D activities to streamline deployments and evaluate new product offerings; write clear and concise supporting documentation
+- Ensured the SOC could operate efficiently by owning the service delivery and integrations of the cybersecurity tool stack
+- Served as a technical advisor to Director and C-level individuals within Corsica and acted as an inter-departmental liaison
+
+#### **DevOps Engineer/Sr. Systems Engineer** | September 2019 - March 2020
+
+Drive efficiency and consistency of both internal and client-facing processes through the use of scripting and automation.
+
+- Developed workflows and ETL pipelines to migrate data from acquired companies into Corsica back-end systems
+- Developed a SharePoint wiki web scraper to extract documentation and files for ingest into a document management platform using Python
+- Took charge of the reorganization of the DevOps GitHub repo and development of a code style guide
+
+### Spectrum Engineering Corp
+
+#### **Network Planning Analyst** | March 2010 - September 2019
+
+Responsible for designing, deploying, and maintaining flexible and scalable IT
+infrastructure to support business needs and ever-changing requirements.
+
+- Led the company through their virtualization journey to modernize the infrastructure
+- Planned and presented business cases for proposed infrastructure projects
+- Prepared IT budgets with 5-year projections for various growth targets
+- Started lunch 'n learns to teach users about IT security and new tools in bite-sized sessions
+
+---
+
+## EDUCATION
+
+### B.A. Cum Laude - Biology | Business Administration | Accounting | Finance
+
+Minor in Biblical Languages
+
+Grace College
+
+2004 - 2009
