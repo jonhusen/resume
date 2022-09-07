@@ -57,9 +57,11 @@ Currently learning: Ansible, Docker, FastAPI
 
 #### **Cybersecurity Architect** | December 2021 - Present
 
-Design and maintain a cohesive, turnkey security MDR platform that is easily
+Design and maintain a cohesive, turnkey security platform that is easily
 deployed and scales with customer needs.
 
+- Developed tooling, testing processes, and documentation to deploy EDR to 14,000 endpoints across a wide variety of client environments
+- Worked with the SOC to develop SIEM and SOAR workflows that triage, enrich, and/or auto-close tickets
 - Collaborated with development team to determine ways to drive engagement with and value of the Corsica Client Portal
 - Consolidated legacy tool sprawl to drive SOC efficiency and ease Cyber Engineering management burden
 - Developed client onboarding tooling and methodologies to reduce time to serviceability and show value to the client
