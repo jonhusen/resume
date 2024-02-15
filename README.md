@@ -53,9 +53,20 @@ Currently learning: Ansible, Docker, FastAPI
 
 ## EMPLOYMENT & EXPERIENCE
 
+### L3Harris Technologies
+
+#### **Sr. Specialist, Systems Engineering** | April 2023 - Present
+
+Manage the Advanced Processing Lab in support of the program needs of the
+Space and Airborne Systems division.
+
+- Ensure systems developed by various functional groups can communicate and work cohesively.
+- Gather requirements and develop support systems that meet department needs.
+- Develop adaptable test racks that support diverse mission needs.
+
 ### Corsica Technologies
 
-#### **Cybersecurity Architect** | December 2021 - Present
+#### **Cybersecurity Architect** | December 2021 - March 2023
 
 Design and maintain a cohesive, turnkey security platform that is easily
 deployed and scales with customer needs.
