@@ -1,6 +1,6 @@
 # **JONATHAN HUSEN**
 
-## CYBERSECURITY ARCHITECT
+## SYSTEMS ENGINEER
 
 ---
 
@@ -17,7 +17,7 @@
 ## ABOUT
 
 Growth-minded builder who enjoys developing platforms and systems that help
-secure customer environments and alleviate workflow friction for the SOC.
+meet mission needs and accelerate the pace of innovation.
 Driven by learning new technologies and leveraging them to satisfy business
 objectives. Energized by facilitating workflow optimization through analysis
 of business processes, efficient use of tooling, and scripting/automation.
